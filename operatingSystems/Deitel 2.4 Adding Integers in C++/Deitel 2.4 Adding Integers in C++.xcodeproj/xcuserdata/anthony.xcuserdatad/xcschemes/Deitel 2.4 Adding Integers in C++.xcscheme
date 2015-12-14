@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "92931DBD1B8BB34E0039115D"
-               BuildableName = "operatingSystems"
-               BlueprintName = "operatingSystems"
-               ReferencedContainer = "container:operatingSystems.xcodeproj">
+               BlueprintIdentifier = "9251CC6B1B8E046C0023E5B6"
+               BuildableName = "Deitel 2.4 Adding Integers in C++"
+               BlueprintName = "Deitel 2.4 Adding Integers in C++"
+               ReferencedContainer = "container:Deitel 2.4 Adding Integers in C++.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "92931DBD1B8BB34E0039115D"
-            BuildableName = "operatingSystems"
-            BlueprintName = "operatingSystems"
-            ReferencedContainer = "container:operatingSystems.xcodeproj">
+            BlueprintIdentifier = "9251CC6B1B8E046C0023E5B6"
+            BuildableName = "Deitel 2.4 Adding Integers in C++"
+            BlueprintName = "Deitel 2.4 Adding Integers in C++"
+            ReferencedContainer = "container:Deitel 2.4 Adding Integers in C++.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -52,10 +52,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "92931DBD1B8BB34E0039115D"
-            BuildableName = "operatingSystems"
-            BlueprintName = "operatingSystems"
-            ReferencedContainer = "container:operatingSystems.xcodeproj">
+            BlueprintIdentifier = "9251CC6B1B8E046C0023E5B6"
+            BuildableName = "Deitel 2.4 Adding Integers in C++"
+            BlueprintName = "Deitel 2.4 Adding Integers in C++"
+            ReferencedContainer = "container:Deitel 2.4 Adding Integers in C++.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -71,10 +71,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "92931DBD1B8BB34E0039115D"
-            BuildableName = "operatingSystems"
-            BlueprintName = "operatingSystems"
-            ReferencedContainer = "container:operatingSystems.xcodeproj">
+            BlueprintIdentifier = "9251CC6B1B8E046C0023E5B6"
+            BuildableName = "Deitel 2.4 Adding Integers in C++"
+            BlueprintName = "Deitel 2.4 Adding Integers in C++"
+            ReferencedContainer = "container:Deitel 2.4 Adding Integers in C++.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

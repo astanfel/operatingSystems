@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "92931DBD1B8BB34E0039115D"
-               BuildableName = "operatingSystems"
-               BlueprintName = "operatingSystems"
-               ReferencedContainer = "container:operatingSystems.xcodeproj">
+               BlueprintIdentifier = "922911691BA08D5D00E72B7F"
+               BuildableName = "Lab 5"
+               BlueprintName = "Lab 5"
+               ReferencedContainer = "container:Lab 5.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "92931DBD1B8BB34E0039115D"
-            BuildableName = "operatingSystems"
-            BlueprintName = "operatingSystems"
-            ReferencedContainer = "container:operatingSystems.xcodeproj">
+            BlueprintIdentifier = "922911691BA08D5D00E72B7F"
+            BuildableName = "Lab 5"
+            BlueprintName = "Lab 5"
+            ReferencedContainer = "container:Lab 5.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -52,10 +52,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "92931DBD1B8BB34E0039115D"
-            BuildableName = "operatingSystems"
-            BlueprintName = "operatingSystems"
-            ReferencedContainer = "container:operatingSystems.xcodeproj">
+            BlueprintIdentifier = "922911691BA08D5D00E72B7F"
+            BuildableName = "Lab 5"
+            BlueprintName = "Lab 5"
+            ReferencedContainer = "container:Lab 5.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -71,10 +71,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "92931DBD1B8BB34E0039115D"
-            BuildableName = "operatingSystems"
-            BlueprintName = "operatingSystems"
-            ReferencedContainer = "container:operatingSystems.xcodeproj">
+            BlueprintIdentifier = "922911691BA08D5D00E72B7F"
+            BuildableName = "Lab 5"
+            BlueprintName = "Lab 5"
+            ReferencedContainer = "container:Lab 5.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

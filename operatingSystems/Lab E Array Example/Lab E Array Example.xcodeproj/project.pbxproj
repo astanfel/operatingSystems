@@ -1,0 +1,248 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		926A35121BB99D3000ECC766 /* point.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 926A35111BB99D3000ECC766 /* point.cpp */; };
+		926A351A1BB99D5900ECC766 /* Arraydriver.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 926A35191BB99D5900ECC766 /* Arraydriver.cpp */; settings = {ASSET_TAGS = (); }; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		926A350C1BB99D3000ECC766 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		926A350E1BB99D3000ECC766 /* Lab E Array Example */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Lab E Array Example"; sourceTree = BUILT_PRODUCTS_DIR; };
+		926A35111BB99D3000ECC766 /* point.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = point.cpp; sourceTree = "<group>"; };
+		926A35181BB99D4200ECC766 /* point.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = point.h; path = ../point.h; sourceTree = "<group>"; };
+		926A35191BB99D5900ECC766 /* Arraydriver.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Arraydriver.cpp; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		926A350B1BB99D3000ECC766 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		926A35051BB99D3000ECC766 = {
+			isa = PBXGroup;
+			children = (
+				926A35101BB99D3000ECC766 /* Lab E Array Example */,
+				926A350F1BB99D3000ECC766 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		926A350F1BB99D3000ECC766 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				926A350E1BB99D3000ECC766 /* Lab E Array Example */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		926A35101BB99D3000ECC766 /* Lab E Array Example */ = {
+			isa = PBXGroup;
+			children = (
+				926A35191BB99D5900ECC766 /* Arraydriver.cpp */,
+				926A35181BB99D4200ECC766 /* point.h */,
+				926A35111BB99D3000ECC766 /* point.cpp */,
+			);
+			path = "Lab E Array Example";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		926A350D1BB99D3000ECC766 /* Lab E Array Example */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 926A35151BB99D3000ECC766 /* Build configuration list for PBXNativeTarget "Lab E Array Example" */;
+			buildPhases = (
+				926A350A1BB99D3000ECC766 /* Sources */,
+				926A350B1BB99D3000ECC766 /* Frameworks */,
+				926A350C1BB99D3000ECC766 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Lab E Array Example";
+			productName = "Lab E Array Example";
+			productReference = 926A350E1BB99D3000ECC766 /* Lab E Array Example */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		926A35061BB99D3000ECC766 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0700;
+				ORGANIZATIONNAME = "Anthony Stanfel ";
+				TargetAttributes = {
+					926A350D1BB99D3000ECC766 = {
+						CreatedOnToolsVersion = 7.0;
+					};
+				};
+			};
+			buildConfigurationList = 926A35091BB99D3000ECC766 /* Build configuration list for PBXProject "Lab E Array Example" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 926A35051BB99D3000ECC766;
+			productRefGroup = 926A350F1BB99D3000ECC766 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				926A350D1BB99D3000ECC766 /* Lab E Array Example */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		926A350A1BB99D3000ECC766 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				926A35121BB99D3000ECC766 /* point.cpp in Sources */,
+				926A351A1BB99D5900ECC766 /* Arraydriver.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		926A35131BB99D3000ECC766 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.10;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		926A35141BB99D3000ECC766 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.10;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		926A35161BB99D3000ECC766 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		926A35171BB99D3000ECC766 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		926A35091BB99D3000ECC766 /* Build configuration list for PBXProject "Lab E Array Example" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				926A35131BB99D3000ECC766 /* Debug */,
+				926A35141BB99D3000ECC766 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		926A35151BB99D3000ECC766 /* Build configuration list for PBXNativeTarget "Lab E Array Example" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				926A35161BB99D3000ECC766 /* Debug */,
+				926A35171BB99D3000ECC766 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 926A35061BB99D3000ECC766 /* Project object */;
+}
